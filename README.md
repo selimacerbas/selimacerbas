@@ -78,9 +78,6 @@ Welcome to my GitHub profile! I'm passionate about coding and enjoy learning new
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esp32&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-CC0000?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-## 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SelimAcerbas&theme=react-dark)
 
 ## 💼 Work Experience
 
