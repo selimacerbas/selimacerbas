@@ -84,19 +84,15 @@ Welcome to my GitHub profile! I'm passionate about coding and enjoy learning new
 ### System Engineer at [Swisscom](https://www.swisscom.ch)
 - **Duration**: 2024 - Current
 - **Location**: Switzerland
-- ![Swisscom](https://upload.wikimedia.org/wikipedia/commons/3/30/Swisscom_Logo.png)
 
 ### DevOps Engineer at [Capgemini](https://www.capgemini.com)
 - **Duration**: 2022 - 2023
 - **Location**: Germany
-- ![Capgemini](https://upload.wikimedia.org/wikipedia/commons/9/95/Capgemini_logo.svg)
 
 ### Solutions Architect at [Capgemini](https://www.capgemini.com)
 - **Duration**: 2022 - 2023
 - **Location**: Germany
-- ![Capgemini](https://upload.wikimedia.org/wikipedia/commons/9/95/Capgemini_logo.svg)
 
 ### Software Developer at [Fraunhofer IGD](https://www.igd.fraunhofer.de)
 - **Duration**: 2021 - 2022
 - **Location**: Germany
-- ![Fraunhofer IGD](https://upload.wikimedia.org/wikipedia/commons/e/ef/Fraunhofer-Gesellschaft_logo.svg)
