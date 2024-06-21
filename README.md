@@ -33,18 +33,13 @@ Welcome to my GitHub profile! I'm passionate about coding and enjoy learning new
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-7D8C00?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Core APIs and Libraries
+### APIs and Libraries
 ![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Auth Protocols
-![OAuth](https://img.shields.io/badge/OAuth-3949AB?style=for-the-badge&logo=oauth&logoColor=white)
-![OIDC](https://img.shields.io/badge/OIDC-3E3E3E?style=for-the-badge&logo=openid-connect&logoColor=white)
-![SAML](https://img.shields.io/badge/SAML-FF6F00?style=for-the-badge&logo=saml&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,6 +54,11 @@ Welcome to my GitHub profile! I'm passionate about coding and enjoy learning new
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+### Auth Protocols
+![OAuth](https://img.shields.io/badge/OAuth-3949AB?style=for-the-badge&logo=oauth&logoColor=white)
+![OIDC](https://img.shields.io/badge/OIDC-3E3E3E?style=for-the-badge&logo=openid-connect&logoColor=white)
+![SAML](https://img.shields.io/badge/SAML-FF6F00?style=for-the-badge&logo=saml&logoColor=white)
+
 ### Tools
 ![Kpt](https://img.shields.io/badge/Kpt-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -67,7 +67,6 @@ Welcome to my GitHub profile! I'm passionate about coding and enjoy learning new
 ![Backman](https://img.shields.io/badge/Backman-007ACC?style=for-the-badge&logo=backman&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1565C0?style=for-the-badge&logo=vagrant&logoColor=white)
-
 
 ### IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
