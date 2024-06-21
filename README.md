@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding and enjoy learning new
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-acerbas-746a031ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/selim-acerbas-746a031ba/)
 
 ## 🛠️ Skills
 
