@@ -2,11 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about coding and enjoy learning new technologies. Here you'll find my contributions, and skills.
 
-## 🚀 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelimAcerbas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimAcerbas&layout=compact&theme=radical)
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-acerbas-746a031ba/)
