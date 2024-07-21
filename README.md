@@ -1,7 +1,5 @@
 # Hi there, I'm Selim Acerbas! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding and enjoy learning new technologies. Here you'll find my contributions, and skills.
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-acerbas-746a031ba/)
