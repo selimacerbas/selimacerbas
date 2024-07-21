@@ -67,21 +67,3 @@
 ![STM32](https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esp32&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-000000?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-## 💼 Work Experience
-
-### System Engineer at [Swisscom](https://www.swisscom.ch)
-- **Duration**: 2024 - Current
-- **Location**: Switzerland
-
-### DevOps Engineer at [Capgemini](https://www.capgemini.com)
-- **Duration**: 2022 - 2023
-- **Location**: Germany
-
-### Solutions Architect at [Capgemini](https://www.capgemini.com)
-- **Duration**: 2022 - 2023
-- **Location**: Germany
-
-### Software Developer at [Fraunhofer IGD](https://www.igd.fraunhofer.de)
-- **Duration**: 2021 - 2022
-- **Location**: Germany
