@@ -7,9 +7,9 @@ I help businesses tackle complex infrastructure and scalability challenges by bu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-acerbas-746a031ba/)
 
 ## 👑 Activities
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=selimacerbas&show_icons=true&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selimacerbas&theme=transparent)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=selimacerbas&theme=onedark)
 
 ## 🛠️ Skills
 
