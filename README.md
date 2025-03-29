@@ -1,6 +1,6 @@
 # Hi there, I'm Selim Acerbas! 👋
 
-I help businesses tackle complex infrastructure and scalability challenges by building reliable, secure, and maintainable cloud-native environments. If you're facing difficulties managing Kubernetes clusters, automating deployment pipelines, or ensuring robust application security and compliance across cloud platforms like AWS, GCP, or Azure—I’ve got you covered. My expertise in Infrastructure as Code, advanced Kubernetes tooling (like Istio, Cilium CNI, ArgoCD, and Prometheus), and deep experience with programming languages such as Go, Python, and Rust enable me to simplify your DevOps processes, accelerate software delivery, and enhance your infrastructure's resilience. Let's solve your DevOps and Cloud challenges together!
+I help businesses tackle complex infrastructure and scalability challenges by building reliable, secure, and maintainable cloud-native environments. If you're facing difficulties managing Kubernetes clusters, automating deployment pipelines, or ensuring robust application security and compliance across cloud platforms like AWS, GCP, or Azure—I’ve got you covered. My expertise in Infrastructure as Code, advanced Kubernetes tooling (like Istio, Cilium CNI, ArgoCD, and Prometheus), and deep experience with programming languages such as Go, Python, C++ and Rust enable me to simplify your DevOps processes, accelerate software delivery, and enhance your infrastructure's resilience. Let's solve your DevOps and Cloud challenges together!
 
 ## 🔗 Connect with me
 
