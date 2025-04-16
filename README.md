@@ -1,12 +1,22 @@
-# Hi there, I'm Selim Acerbas! 👋
+# Hey there, I'm Selim Acerbas! 👋
 
-I'm a Software Developer and DevOps Engineer with a passion for building resilient systems and advancing AI through thoughtful algorithm design.
+I'm a curious builder at heart—part software engineer, part DevOps whisperer, part AI enthusiast.
 
-Whether it's optimizing backend performance, designing infrastructure for scalability, or integrating cutting-edge AI frameworks—I thrive where software, infrastructure, and intelligence meet. I specialize in developing secure, cloud-native environments and streamlining software delivery through Infrastructure as Code, GitOps, and advanced Kubernetes tooling.
+Over the years, I’ve worked with teams that were drowning in CI/CD complexity, stuck wrangling unreliable Kubernetes clusters, or trying to scale apps without setting their infrastructure on fire 🔥. Sound familiar? Whether it’s smoothing out a broken deployment pipeline, reducing cloud spend without compromising performance, or weaving AI/ML into your product—I’m all about solving *real* problems with clean, scalable, and secure solutions.
 
-If you're tackling challenges in automating complex pipelines, deploying AI workloads, building intelligent systems, or enhancing application resilience across platforms like AWS, GCP, or Azure—I'm here to help.
+### What I Do:
+- I help businesses **ship code faster and safer** by building DevOps pipelines that actually make sense.
+- I design and manage **cloud-native environments** that are built to scale (without waking anyone up at 2AM).
+- I bring AI to life using tools like **LangChain, Semantic Kernel**, and classic ML algorithms to tackle challenges like search, recommendation, NLP, and beyond.
+- I write code in **Go, Python, Rust, and C++**, and I enjoy crafting algorithms that are both clever and battle-tested.
 
-Let's build smarter, faster, and more reliable systems together.
+If you're facing:
+- “It works on my machine” nightmares
+- Over-engineered infra that no one understands
+- AI hype with no working model in production
+- Spaghetti scripts running your critical systems...
+
+Let’s talk. I might be your favorite problem-solver you haven’t met yet.
 
 ---
 
