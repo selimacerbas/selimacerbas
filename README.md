@@ -46,9 +46,8 @@ Let’s talk. I might be your favorite problem-solver you haven’t met yet.
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Microsoft Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-000000?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### Algorithms
-- Machine Learning, Optimization & Graph Theory  
-📁 Check out my [Algorithms & ML Repo](https://github.com/selimacerbas/algorithms)
+### Algorithms  
+📁 Check out my repo; [Algorithms](https://github.com/selimacerbas/algorithms)
 
 ### DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
