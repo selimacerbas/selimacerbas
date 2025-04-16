@@ -20,7 +20,7 @@ Let’s talk. I might be your favorite problem-solver you haven’t met yet.
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Say HI to me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selimacerbas/)
 
