@@ -3,7 +3,7 @@
 I'm a DevOps Engineer with a strong focus on building reliable, scalable systems and integrating AI/ML solutions into real-world products.
 Over the years, I’ve worked across diverse environments—from enterprise-scale Kubernetes clusters to event-driven cloud platforms—helping teams streamline deployments, reduce operational complexity, and deliver smarter applications. Whether it’s optimizing CI/CD pipelines, managing infrastructure-as-code, or integrating AI-powered workflows, I bring a practical and security-focused mindset to every challenge.
 
-What I Do
+# What I Do
 
 - DevOps & Infrastructure Engineering
 I design and automate cloud-native environments across GCP, Azure, AWS, and on-prem systems using tools like Terraform, OpenTofu, Helm, and ArgoCD—prioritizing security, observability, and maintainability.
