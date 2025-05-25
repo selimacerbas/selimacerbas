@@ -19,8 +19,6 @@ I work with Go, Python, Rust, C++, Flutter, FastAPI, Cobra, Viper, and more—se
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selimacerbas/)
 
----
-
 ## 🛠️ Skills
 
 ### Programming Languages
