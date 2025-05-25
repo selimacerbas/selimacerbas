@@ -1,24 +1,19 @@
-# Hey there, I'm Selim Acerbas! 👋
+# 👋 Hello, I'm Selim Acerbas
 
-I'm a curious builder at heart—part software engineer, part DevOps whisperer, part AI enthusiast.
+I'm a DevOps Engineer with a strong focus on building reliable, scalable systems and integrating AI/ML solutions into real-world products.
+Over the years, I’ve worked across diverse environments—from enterprise-scale Kubernetes clusters to event-driven cloud platforms—helping teams streamline deployments, reduce operational complexity, and deliver smarter applications. Whether it’s optimizing CI/CD pipelines, managing infrastructure-as-code, or integrating AI-powered workflows, I bring a practical and security-focused mindset to every challenge.
 
-Over the years, I’ve worked with teams that were drowning in CI/CD complexity, stuck wrangling unreliable Kubernetes clusters, or trying to scale apps without setting their infrastructure on fire 🔥. Sound familiar? Whether it’s smoothing out a broken deployment pipeline, reducing cloud spend without compromising performance, or weaving AI/ML into your product—I’m all about solving *real* problems with clean, scalable, and secure solutions.
+What I Do
 
-### What I Do:
-- I help businesses **ship code faster and safer** by building DevOps pipelines that actually make sense.
-- I design and manage **cloud-native environments** that are built to scale (without waking anyone up at 2AM).
-- I bring AI to life using tools like **LangChain, Semantic Kernel**, and classic ML algorithms to tackle challenges like search, recommendation, NLP, and beyond.
-- I write code in **Go, Python, Rust, and C++**, and I enjoy crafting algorithms that are both clever and battle-tested.
+- DevOps & Infrastructure Engineering
+I design and automate cloud-native environments across GCP, Azure, AWS, and on-prem systems using tools like Terraform, OpenTofu, Helm, and ArgoCD—prioritizing security, observability, and maintainability.
+- Scalable CI/CD
+I build reliable deployment pipelines for both monorepos and microservices. These solutions reduce manual overhead, lower operational costs, and accelerate software delivery while maintaining stability and control.
+- AI/ML Engineering
+I apply machine learning and large language model frameworks—such as LangChain, Semantic Kernel, and TensorFlow—to practical challenges like content recommendation, retrieval-augmented generation (RAG), and intelligent CLI tools (e.g., kubectl-ai). My focus is on building explainable, useful, and production-ready systems.
+- Languages & Frameworks
+I work with Go, Python, Rust, C++, Flutter, FastAPI, Cobra, Viper, and more—selecting technologies based on their suitability to the task rather than trends.
 
-If you're facing:
-- “It works on my machine” nightmares
-- Over-engineered infra that no one understands
-- AI hype with no working model in production
-- Spaghetti scripts running your critical systems...
-
-Let’s talk. I might be your favorite problem-solver you haven’t met yet.
-
----
 
 ## 🔗 Say HI to me!
 
