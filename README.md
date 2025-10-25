@@ -11,9 +11,9 @@ DevOps Engineer focused on building reliable, scalable systems and shipping AI/M
 ---
 
 ## 🧰 Open Source Projects
-
-- **[mermaid-playground.nvim](https://github.com/selimacerbas/mermaid-playground.nvim)** – Neovim plugin to preview and iterate on Mermaid diagrams from your editor.  
-- **[live-server.nvim](https://github.com/selimacerbas/live-server.nvim)** – Lightweight live-reload dev server you can start directly from Neovim.  
+- **Neovim:**
+  - **[mermaid-playground.nvim](https://github.com/selimacerbas/mermaid-playground.nvim)** – Neovim plugin to preview and iterate on Mermaid diagrams from your editor.  
+  - **[live-server.nvim](https://github.com/selimacerbas/live-server.nvim)** – Lightweight live-reload dev server you can start directly from Neovim.  
 - **Hammerspoon spoons (macOS):**
   - **[CursorScope.spoon](https://github.com/selimacerbas/CursorScope.spoon)** – Visual cursor highlight/locator for presentations and demos.
   - **[FocusMode.spoon](https://github.com/selimacerbas/FocusMode.spoon)** – Toggle a distraction-free setup to stay in flow.
